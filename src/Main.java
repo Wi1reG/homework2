@@ -9,5 +9,6 @@ public class Main {
         var paper = 763789 + 4;
         System.out.println("paper" + paper);
 
+
     }
 }

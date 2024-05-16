@@ -8,7 +8,5 @@ public class Main {
         System.out.println("cat" + cat);
         var paper = 763789 + 4;
         System.out.println("paper" + paper);
-
-
     }
 }
